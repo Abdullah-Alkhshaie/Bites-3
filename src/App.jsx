@@ -12,7 +12,7 @@ function App() {
     <div className="h-screen bg-[#0a0908]">
       <HashRouter>
         <Navbar />
-        <Routes basename="/Bites">
+        <Routes >
           <Route path="/" element={<Home />} />
           <Route path="menu" element={<Menu />} />
           <Route path="about" element={<About />} />
