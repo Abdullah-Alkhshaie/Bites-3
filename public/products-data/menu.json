@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "beef burger",
-    "image": "/public/images/burger-1.webp",
+    "image": "/images/burger-1.webp",
     "price": "14.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "burger"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "cheese pizza",
-    "image": "/public/images/slider-2.webp",
+    "image": "/images/slider-2.webp",
     "price": "9.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "pizza"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "cheese burger",
-    "image": "/public/images/burger-1.webp",
+    "image": "/images/burger-1.webp",
     "price": "12.00",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "burger"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "vanilla ice cream",
-    "image": "/public/images/ice-cream2.webp",
+    "image": "/images/ice-cream2.webp",
     "price": "14.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "ice-cream"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "vegetable pizza",
-    "image": "/public/images/slider-2.webp",
+    "image": "/images/slider-2.webp",
     "price": "16.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "pizza"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "strawberry ice cream",
-    "image": "/public/images/ice-cream2.webp",
+    "image": "/images/ice-cream2.webp",
     "price": "7.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "ice-cream"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "name": "hot burger",
-    "image": "/public/images/burger-1.webp",
+    "image": "/images/burger-1.webp",
     "price": "6.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "burger"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "name": "seafood pizza",
-    "image": "/public/images/slider-2.webp",
+    "image": "/images/slider-2.webp",
     "price": "11.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "pizza"
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "name": "vegetable burger",
-    "image": "/public/images/burger-1.webp",
+    "image": "/images/burger-1.webp",
     "price": "12.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "burger"
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "name": "biscuit ice cream",
-    "image": "/public/images/ice-cream2.webp",
+    "image": "/images/ice-cream2.webp",
     "price": "4.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "ice-cream"
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "name": "mozzarella pizza",
-    "image": "/public/images/slider-2.webp",
+    "image": "/images/slider-2.webp",
     "price": "8.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "pizza"
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "name": "biscuit ice cream",
-    "image": "/public/images/ice-cream2.webp",
+    "image": "/images/ice-cream2.webp",
     "price": "4.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "ice-cream"
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "name": "burger king black",
-    "image": "/public/images/burger-1.webp",
+    "image": "/images/burger-1.webp",
     "price": "12.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "burger"
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "name": "gourmet burger",
-    "image": "/public/images/burger-1.webp",
+    "image": "/images/burger-1.webp",
     "price": "8.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "burger"
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "name": "red robin burger",
-    "image": "/public/images/burger-1.webp",
+    "image": "/images/burger-1.webp",
     "price": "6.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "burger"
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "name": "burger king triple",
-    "image": "/public/images/burger-1.webp",
+    "image": "/images/burger-1.webp",
     "price": "16.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "burger"
@@ -131,7 +131,7 @@
   {
     "id": 18,
     "name": "cupcake blue",
-    "image": "/public/images/cack-2.png",
+    "image": "/images/cack-2.png",
     "price": "6.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "cake"
@@ -139,7 +139,7 @@
   {
     "id": 19,
     "name": "cupcake illustraiton",
-    "image": "/public/images/cack-2.png",
+    "image": "/images/cack-2.png",
     "price": "3.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "cake"
@@ -147,7 +147,7 @@
   {
     "id": 20,
     "name": "cupcake vanilla",
-    "image": "/public/images/cack-2.png",
+    "image": "/images/cack-2.png",
     "price": "7.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "cake"
@@ -155,7 +155,7 @@
   {
     "id": 21,
     "name": "cupcake pink",
-    "image": "/public/images/cack-2.png",
+    "image": "/images/cack-2.png",
     "price": "2.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "cake"
@@ -163,7 +163,7 @@
   {
     "id": 22,
     "name": "dessert",
-    "image": "/public/images/dessert2.png",
+    "image": "/images/dessert2.png",
     "price": "5.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "dessert"
@@ -171,7 +171,7 @@
   {
     "id": 23,
     "name": "desserst",
-    "image": "/public/images/dessert2.png",
+    "image": "/images/dessert2.png",
     "price": "8.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "dessert"
@@ -179,7 +179,7 @@
   {
     "id": 24,
     "name": "dessert",
-    "image": "/public/images/dessert2.png",
+    "image": "/images/dessert2.png",
     "price": "4.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "dessert"
@@ -187,7 +187,7 @@
   {
     "id": 25,
     "name": "queen fries",
-    "image": "/public/images/fries-2.png",
+    "image": "/images/fries-2.png",
     "price": "9.00",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "fries"
@@ -195,7 +195,7 @@
   {
     "id": 26,
     "name": "french fries",
-    "image": "/public/images/fries-2.png",
+    "image": "/images/fries-2.png",
     "price": "3.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "fries"
@@ -203,7 +203,7 @@
   {
     "id": 27,
     "name": "burger king fries",
-    "image": "/public/images/fries-2.png",
+    "image": "/images/fries-2.png",
     "price": "4.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "fries"
@@ -211,7 +211,7 @@
   {
     "id": 28,
     "name": "pepperoni pizza",
-    "image": "/public/images/slider-2.webp",
+    "image": "/images/slider-2.webp",
     "price": "15.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "pizza"
@@ -219,7 +219,7 @@
   {
     "id": 29,
     "name": "domino's pizza",
-    "image": "/public/images/slider-2.webp",
+    "image": "/images/slider-2.webp",
     "price": "9.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "pizza"
@@ -227,7 +227,7 @@
   {
     "id": 30,
     "name": "pizza",
-    "image": "/public/images/slider-2.webp",
+    "image": "/images/slider-2.webp",
     "price": "11.00",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "pizza"
@@ -235,7 +235,7 @@
   {
     "id": 31,
     "name": "pizza",
-    "image": "/public/images/slider-2.webp",
+    "image": "/images/slider-2.webp",
     "price": "11.00",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "pizza"
@@ -243,7 +243,7 @@
   {
     "id": 32,
     "name": "pizza hut",
-    "image": "/public/images/slider-2.webp",
+    "image": "/images/slider-2.webp",
     "price": "12.99",
     "descrption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi sit quisquam nemo aliquid voluptate cum sequi maiores nesciunt harum?",
     "category": "pizza "
