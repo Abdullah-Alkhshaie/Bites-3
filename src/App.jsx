@@ -1,4 +1,4 @@
-import { Routes, Route, HashRouter } from "react-router-dom";
+import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import About from "./pages/About";
 import Cart from "./pages/Cart";
@@ -10,7 +10,7 @@ import Login from "./pages/Login";
 function App() {
   return (
     <div className="h-screen bg-[#0a0908]">
-      <HashRouter>
+      <BrowserRouter>
         <Navbar />
         <Routes >
           <Route path="/" element={<Home />} />
@@ -20,7 +20,7 @@ function App() {
           <Route path="login" element={<Login />} />
         </Routes>
         <Footer />
-      </HashRouter>
+      </BrowserRouter>
     </div>
   );
 }
