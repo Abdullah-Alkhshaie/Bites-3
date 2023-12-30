@@ -1,9 +1,9 @@
 import React from "react";
 
 const team = [
-  "../../public/images/team-1.webp",
-  "../../public/images/team-2.webp",
-  "../../public/images/team-3.webp",
+  "Bites-3/images/team-1.webp",
+  "Bites-3/images/team-2.webp",
+  "Bites-3/images/team-3.webp",
 ];
 
 function OurTeam() {
