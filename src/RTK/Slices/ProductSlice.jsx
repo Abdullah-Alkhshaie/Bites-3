@@ -4,9 +4,7 @@ import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 export const fetchHeroProduct = createAsyncThunk(
   "herorProduct/fetchHeroProduct",
   async () => {
-    const response = await axios.get(
-      "Bites-3/products-data/hero-products.json"
-    );
+    const response = await axios.get("/products-data/hero-products.json");
 
     return response.data;
   }
@@ -15,7 +13,7 @@ export const fetchHeroProduct = createAsyncThunk(
 export const fetchMenuProduct = createAsyncThunk(
   "menuProduct/fetchMenuProduct",
   async () => {
-    const response = await axios.get("Bites-3/products-data/menu.json");
+    const response = await axios.get("/products-data/menu.json");
     return response.data;
   }
 );
